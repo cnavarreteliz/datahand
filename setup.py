@@ -5,15 +5,15 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="datahandler",
+    name="datahand",
     version="0.0.1",
     author="cnavarreteliz",
     author_email="cnavarreteliz@gmail.com",
-    description="DataHandler is a collection of algorithms to read and handle data for research (e.g., Web of Science, USPTO) in Python.",
+    description="DataHand is a collection of algorithms to read and handle data for research (e.g., Web of Science, USPTO) in Python.",
     license_files=("LICENSE.md",),
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/cnavarreteliz/polapy",
+    url="https://github.com/cnavarreteliz/datahand",
     packages=setuptools.find_packages(),
     install_requires=[
         "numpy",
