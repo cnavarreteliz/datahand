@@ -1,0 +1,1293 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Ruderer, S
+AF Ruderer, Stephan
+TI Social outbreak and a new Constitution for Chile
+SO IBEROAMERICANA
+LA Spanish
+DT Book Review
+C1 [Ruderer, Stephan] Pontificia Univ Catolica Chile, Santiago, Chile.
+C3 Pontificia Universidad Catolica de Chile
+RP Ruderer, S (corresponding author), Pontificia Univ Catolica Chile, Santiago, Chile.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU VERVUERT VERLAG
+PI FRANKFURT AM MAIN
+PA ELISABETHENSTR 3-9, FRANKFURT AM MAIN, 60594, GERMANY
+SN 1577-3388
+EI 2255-520X
+J9 IBEROAMERICANA-GER
+JI Iberoamericana
+PY 2022
+VL 22
+IS 81
+BP 342
+EP 344
+PG 3
+WC Humanities, Multidisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Arts & Humanities - Other Topics
+GA 8O2OA
+UT WOS:000925678000043
+DA 2023-09-26
+ER
+
+PT J
+AU Ivanova, A
+   Almendras, JJ
+AF Ivanova, Anna
+   Jocelin Almendras, Jorge
+TI MEDIA REPRESENTATION OF OCTOBER, 2019 SOCIAL OUTBREAK IN CHILE
+SO UNIVERSUM-REVISTA DE HUMANIDADES Y CIENCIAS SOCIALES
+LA English
+DT Article
+DE printed news media in Chile; October social outbreak; ideology in
+   language; Critical Discourse Analysis; Corpus Linguistics
+AB This article attempts to reward readers with insights into the media representation of the first week of October, 2019 social outbreak in Chile in the national mainstream press. We have chosen to focus on the printed media since it plays an important role in shaping public opinions as well as setting agendas regarding certain topics. The study stands on the premises taken from Critical Discourse Analysis and Corpus Linguistics, and concentrates on the verbal signification in the headlines. Results of the study show that in the context of news media discourse on October social outbreak, its representation is guided by the ideological and political standpoints of the medium, leaving behind the main aim of the media to cover diversity and promote pluralism in society.
+C1 [Ivanova, Anna] Univ OHiggins, Inst Ciencias Sociales, Inst Ciencils Educ, Santiago, Chile.
+   [Jocelin Almendras, Jorge] Univ Buenos Aires, Fac Ciencias Sociales, Ciencias Sociales, Buenos Aires, DF, Argentina.
+C3 Universidad de O'Higgins; University of Buenos Aires
+RP Ivanova, A (corresponding author), Univ OHiggins, Inst Ciencias Sociales, Inst Ciencils Educ, Santiago, Chile.
+EM anna.ivanova@uoh.cl; jorge.jocelin.almendras@gmail.com
+RI Ivanova, Anna/GZK-6458-2022
+CR Andrew BC, 2007, HARV INT J PRESS/POL, V12, P24, DOI 10.1177/1081180X07299795
+   [Anonymous], 1993, LA SEMIOSIS SOCIAL
+   [Anonymous], 2013, POLICING CRISIS MUGG
+   [Anonymous], 1998, IDEOLOGY MULTIDISCIP
+   [Anonymous], 1976, SOCIAL CONSTRUCTION
+   [Anonymous], 2001, CONCENTRACION EC MED
+   [Anonymous], 1995, COMMUNICATION SOC
+   [Anonymous], 2021, UNIVERSUM-TALCA, V36
+   [Anonymous], 2009, SOC MOVEMENT STUD, DOI DOI 10.1080/14742830802591135
+   [Anonymous], 2005, REV HISTORIQUE
+   [Anonymous], 2009, SAGE HDB MEDIA PROCE
+   Arpan L. M., 2006, MASS COMMUNICATION S, V9, P1, DOI DOI 10.1207/S15327825MCS0901_1
+   BELL A, 1991, LANGUAGE NEWS MEDIA, DOI DOI 10.1017/S004740450001695X
+   CDC, 2015, CONC EC MERC CHIL IN
+   Checa L, 2012, ANALISIS CONTENIDO C, V25, P6
+   Conboy M, 2010, LANGUAGE NEWSPAPES S
+   Couso J, 2011, MERCADO COMO ONSTACU
+   Dijk T. v., 2012, MIGRATIONS INTERDISC, P15
+   Gronemeyer ME, 2017, REV CIENC POLIT-SANT, V37, P177, DOI 10.4067/S0718-090X2017000100008
+   Fowler Roger, 2013, LANGUAGE NEWS DISCOU
+   GIRO X., 2006, ZER, V20, P251
+   Godoy S., 2012, MAPPING DIGITAL MEDI
+   Gorringe H, 2008, BRIT J SOCIOL, V59, P187, DOI 10.1111/j.1468-4446.2008.00189.x
+   Kielbowicz R., 1986, SOCIAL MOVEMENTS CON
+   Leeuwen T. v., 2008, DISCOURSE PRACTICE N
+   Lopez-Garcia Xose, 2014, REV LAT COMUN SOC, P435, DOI 10.4185/RLCS-2014-1019
+   MacCarthy M., 1994, LANGUAGE DISCOURSE P
+   Macleod N, 2005, EUROPEAN ENGLISH MES, V14, P61
+   Mastrini G, 2011, COMUNICAR, V18, P51, DOI 10.3916/C36-2011-02-05
+   Mautner G., 2009, CONT CORPUS LINGUIST, P32
+   Mcquail D., 2010, MASS COMMUNICATION T
+   Muniz C, 2006, THESIS U SALAMANCA
+   Navarro Federico, 2019, Lit. lingüíst., P295, DOI 10.29344/0717621x.40.2083
+   Parodi Giovanni, 2007, DELTA, V23, P339, DOI 10.1590/S0102-44502007000200007
+   Poderopedia, 2015, MAP MED CHIL COL
+   RICHARDSON JE, 2007, ANALYSING NEWSPAPERS
+   Turner V, 1988, PROCESO RITUAL ESTRU
+   ULLOA Claudio, 2014, PERSPECTIVAS COMUNIC, V7, P96
+   Valida, 2018, B CIRC LECT DIAR
+   Van Dijk T.A., 1993, DISCOURSE SOC, V4, P249, DOI DOI 10.1177/0957926593004002006
+   Veron E., 1987, CONSTRUIR ECONTECIMI
+   Verschueren J., 1985, INT NEWS REPORTING
+   Wang W, 2017, MEDIA REPRESENTATION
+NR 43
+TC 2
+Z9 2
+U1 2
+U2 11
+PU UNIV TALCA, INST ESTUDIOS HUMANISTICOS JUAN IGNACIO MOLINA
+PI TALCA
+PA AV LIRCAY S-N, TALCA, CHILE
+SN 0718-2376
+EI 0716-498X
+J9 UNIVERSUM-TALCA
+JI Universum-Rev. Humanidades Cienc. Soc.
+PD DEC
+PY 2021
+VL 36
+IS 2
+BP 521
+EP 538
+DI 10.4067/S0718-23762021000200521
+PG 18
+WC Humanities, Multidisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Arts & Humanities - Other Topics
+GA YW3GB
+UT WOS:000753303200005
+OA gold, Green Submitted
+DA 2023-09-26
+ER
+
+PT J
+AU Cortes-Morales, S
+   Morales, C
+AF Cortes-Morales, Susana
+   Morales, Camilo
+TI Outbreak over outbreak: children living the pandemic in the aftermath of
+   Chile's social unrest
+SO CHILDRENS GEOGRAPHIES
+LA English
+DT Article
+DE Children; covid 19; political participation; Latin-America; inequality
+AB Children's experiences of the pandemic in Chile need to be understood in the context of the social unrest that started explosively (although with a much longer history) in October 2019. We reflect here on children and young peoples social and political participation in this process, the position of childhood in the Constitution and general inequality as the context in which the pandemic developed. The invisibility of children's experiences and practices, their generalised vulnerability and the acute socioeconomic inequalities that affect them are discussed as the key elements shaping the impacts of the Covid 19 pandemic in their everyday lives and spatialities.
+C1 [Cortes-Morales, Susana] Pontificia Univ Catolica Valparaiso, Santiago, Chile.
+   [Morales, Camilo] Univ Chile, Nucleo Estudios Interdisciplinarios Infancias, Santiago, Chile.
+C3 Pontificia Universidad Catolica de Valparaiso; Universidad de Chile
+RP Cortes-Morales, S (corresponding author), Pontificia Univ Catolica Valparaiso, Santiago, Chile.
+EM susana.cortes@pucv.cl
+OI Cortes-Morales, Susana/0000-0003-3920-5743
+FU ANID-PIA Anillos [SOC180040]; Iniciativa Cientifica Milenio [ANID-
+   NCS17_027]
+FX Susana Cortes-Morales would like to thank ANID-PIA Anillos SOC180040
+   project (2018-2021) and Iniciativa Cientifica Milenio, ANID- NCS17_027
+   (Nucleo Milenio Movilidades y Territorios_MOVYT) for their support
+   during the writing of this viewpoint.
+CR Alcoba N., 2020, 0 CANADA PROJECT
+   [Anonymous], 2020, LA TERCERA
+   [Anonymous], 2019, RADIO U CHILE
+   [Anonymous], 2019, CNN CHILE
+   Berasategi N., 2020, U CHILE, DOI DOI 10.5354/0717-8883.2020.58931
+   Bhan G., 2020, SOC SPACE
+   Blum S, 2021, EUR SOC, V23, pS545, DOI 10.1080/14616696.2020.1831572
+   Comite de los Derechos del Nino, 2018, INF INV REL CHIL VIR
+   Coordinadora Nacional de Derechos Humanos, 2012, DERECHOS HUMANOS NI
+   Cort?s Morales, 2020, QU SE CELEBRA D A NI
+   Emol.com, 2020, 18 O 15 N CRONOLOG A, DOI 1000916/Cronologia-estallido-social-plebiscito.html
+   Espejo, 2017, RECONOCIMIENTO INFAN
+   Espinoza, 2020, FR GIL MEMORIA PANDE
+   Gallano H. R., 2020, DERECHO EDUCACION TI
+   Lovera, 2017, CIUDADAN A CONSTITUC
+   MINSAL, 2020, CIFRAS OFICIALES COV
+   Moulian Tomas, 1997, CHILE ACTUAL ANATOMI
+   N?cleo de Estudios Interdisciplinarios en Infancias, 2020, DOCUMENTO TRABAJO N
+   N?cleo de Estudios Interdisciplinarios en Infancias, 2020, INFANCIAS TIEMPOS CU
+   Observatorio Ni?ez y Adolescencia, 2020, COVID 19 NI EZ VISIB
+   PNUD, 2017, DESIGUALES OR GENES
+   Salazar, 2019, REVENT N SOCIAL CHIL
+   Servicio Electoral de Chile, 2020, PLEBISCITO NACL 2020
+   Universidad Diego Portales, 2020, INFORME ANUAL DERECH
+   Vergara A., 2015, PSICO PERSPECTIVAS, V14, P55, DOI [10.5027/psicoperspectivas-Vol14-Issue1-fulltext-544, DOI 10.5027/PSICOPERSPECTIVASVOL14-ISSUE1-FULLTEXT-544]
+   Wu SY, 2020, EXPERT REV MOL DIAGN, V20, P985, DOI 10.1080/14737159.2020.1816171
+NR 26
+TC 4
+Z9 4
+U1 0
+U2 6
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1473-3285
+EI 1473-3277
+J9 CHILD GEOGR
+JI Child. Geogr.
+PD JUL 4
+PY 2022
+VL 20
+IS 4
+SI SI
+BP 412
+EP 420
+DI 10.1080/14733285.2021.1900543
+EA MAR 2021
+PG 9
+WC Geography
+WE Social Science Citation Index (SSCI)
+SC Geography
+GA 3O6EH
+UT WOS:000629052300001
+DA 2023-09-26
+ER
+
+PT J
+AU Salazar, F
+AF Salazar, Flavio
+TI Chile woke up. Readings from the History of October's Social Outbreak
+SO ESPACIO ABIERTO
+LA Spanish
+DT Book Review
+C1 [Salazar, Flavio] Univ Chile, Santiago, Chile.
+C3 Universidad de Chile
+RP Salazar, F (corresponding author), Univ Chile, Santiago, Chile.
+EM fsalazar@med.uchile.cl
+CR Folchi M., 2019, LECT HIST ESTALLIDO, DOI [10.4206/rev.stultifera.2020.v3n1-08, DOI 10.4206/REV.STULTIFERA.2020.V3N1-08]
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 2
+PU UNIV ZULIA, CONSEJO DESARROLLO CIENTIFICO & HUMANISTICO
+PI MARACAIBO
+PA AV UNIV CALLE 60 25-266, SECTOR GRANO DE ORO, MARACAIBO, 00000,
+   VENEZUELA
+SN 1315-0006
+J9 ESPACIO ABIERTO
+JI Espacio Abierto
+PD JAN-MAR
+PY 2020
+VL 29
+IS 1
+BP 231
+EP 232
+PG 2
+WC Social Sciences, Interdisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Social Sciences - Other Topics
+GA PE0GB
+UT WOS:000598050700013
+DA 2023-09-26
+ER
+
+PT J
+AU Pizarro-Mena, RA
+   Duran-Aguero, S
+   Silva, A
+AF Andres Pizarro-Mena, Rafael
+   Duran-Aguero, Samuel
+   Silva, Andres
+TI Social outbreak and its association with insomnia and daytime sleepiness
+   in Chile
+SO SLEEP SCIENCE
+LA English
+DT Review
+DE Insomnia; Sleepiness; Riots; Social Outbreak; Sleep
+ID PROSPECTIVE COHORT; QUALITY; VIOLENCE; ANXIETY; TRAUMA; WORK; RISK;
+   DISTURBANCES; EPIDEMIOLOGY; PREVALENCE
+AB Objectives: To associate the effects of the social outbreak with insomnia and daytime sleepiness according to the distance from the riots. Material and Methods: Cross-sectional analytical study; a non-probabilistic sampling was carried out at a national level. The Google Forms tool was used; a document was submitted using a national database. The instrument consisted of four sections: socio-demographic data, biopsychosocial symptoms, insomnia severity index (ISI), and the Epworth sleepiness scale (ESS). The data were analyzed using descriptive statistics and the zero-inflated negative binomial model. Results: Of a total of 2,532 surveyed people, 29% were male; 43% was younger than 30 years old. The 50% of the sample suffers from sleepiness and 71% shows some type of insomnia. The marginal effects of the zero-inflated negative binomial model show that women, people aged 51 or older, who are neither studying a healthcare degree nor working in the healthcare sector, that are exposed to 4 or more hours per day to the news and that live in areas near or very near the riots, have significantly higher ISI (marginal effect 1.356, SE 0.381, p-value 0.000) and ESS scores (marginal effect 0.693, SE 0.320, p-value 0.030). To live/work in rioting areas has the greater marginal effect compared to other determinants. Finally, neither employment status nor educational level are associated with significant effects in the aforementioned scales. Conclusion: The riots occurred during the social outbreak of October 2019 in Chile had an effect on insomnia and daytime sleepiness. Particularly, to live/work in rioting areas has the greater marginal effect compared to other determinants.
+C1 [Andres Pizarro-Mena, Rafael] Univ San Sebastian, Fac Ciencias Salud, Santiago, Chile.
+   [Duran-Aguero, Samuel] Univ San Sebastian, Fac Ciencias Cuidado Salud, Santiago, Chile.
+   [Silva, Andres] Univ Cent Chile, Fac Econ Gobierno & Comunicac, Santiago, Chile.
+C3 Universidad San Sebastian; Universidad San Sebastian; Universidad
+   Central de Chile
+RP Pizarro-Mena, RA (corresponding author), Univ San Sebastian, Fac Ciencias Salud, Santiago, Chile.
+EM rafael.pzarro@uss.cl
+OI Pizarro-Mena, Rafael/0000-0001-8221-8270; DURAN AGUERO,
+   SAMUEL/0000-0002-0548-3676; Silva Montes, Andres/0000-0002-4816-2821
+CR Al Karaki G, 2020, J EPIDEMIOL GLOB HEA, V10, P124, DOI 10.2991/jegh.k.200117.001
+   Alonson IM, 2006, NORTE SALUD MENT
+   Alvaro PK, 2013, SLEEP, V36, P1059, DOI 10.5665/sleep.2810
+   American Psychiatric Association, 2013, DIAGN STAT MAN MENT, V5th, DOI 10.5555/appi.books.9780890425596.x00pre
+   [Anonymous], 2005, SLEEP, V28, P1049
+   Ayappa I, 2019, INT J ENV RES PUB HE, V16, DOI 10.3390/ijerph16071229
+   Bernert RA, 2014, JAMA PSYCHIAT, V71, P1129, DOI 10.1001/jamapsychiatry.2014.1126
+   Bjorngaard JH, 2011, SLEEP, V34, P1155, DOI 10.5665/SLEEP.1228
+   Brown TSH, 2015, J CLIN SLEEP MED, V11, P735, DOI 10.5664/jcsm.4846
+   Bryant RA, 2010, SLEEP, V33, P69, DOI 10.1093/sleep/33.1.69
+   Chazelle E, 2016, INT ARCH OCC ENV HEA, V89, P485, DOI 10.1007/s00420-015-1087-1
+   Chica-Urzola Heydy Luz, 2007, Rev. salud pública, V9, P558
+   Danker-Hopfe H, 2018, PSYCHIAT RES, V270, P560, DOI 10.1016/j.psychres.2018.10.021
+   Durán Agüero Samuel, 2017, Salud, Barranquilla, V33, P75
+   Erokhin V, 2020, INT J ENV RES PUB HE, V17, DOI 10.3390/ijerph17165775
+   Etindele-Sosso FA, 2020, SLEEP SCI, V13, P54, DOI 10.5935/1984-0063.20190133
+   Evanoff BA, 2020, J MED INTERNET RES, V22, DOI 10.2196/21366
+   Fernandez-Godoy E., 2016, REV ESP NUTR COMUNIT, V22, P14, DOI 10.14642/RENC.2016.22.3.5143
+   FORD DE, 1989, JAMA-J AM MED ASSOC, V262, P1479, DOI 10.1001/jama.262.11.1479
+   Goldstein AN, 2014, ANNU REV CLIN PSYCHO, V10, P679, DOI 10.1146/annurev-clinpsy-032813-153716
+   Gould CE, 2018, J GERONTOL B-PSYCHOL, V73, P413, DOI 10.1093/geronb/gbx020
+   Hagiwara Y, 2018, J ORTHOP SCI, V23, P334, DOI 10.1016/j.jos.2017.10.011
+   Jackson ML, 2011, PROG BRAIN RES, V190, P53, DOI 10.1016/B978-0-444-53817-8.00003-7
+   Kahn M, 2013, INT J PSYCHOPHYSIOL, V89, P218, DOI 10.1016/j.ijpsycho.2013.05.010
+   Krug EG, 2002, LANCET, V360, P1083, DOI 10.1016/S0140-6736(02)11133-0
+   Larizgoitia I, 2011, GAC SANIT, V25, P246, DOI 10.1016/j.gaceta.2011.01.001
+   LAVIE P, 1991, ISRAEL J MED SCI, V27, P681
+   Lazaratou H, 2018, Psychiatriki, V29, P25, DOI 10.22365/jpsych.2018.291.25
+   LeBlanc M, 2007, J PSYCHOSOM RES, V63, P157, DOI 10.1016/j.jpsychores.2007.03.004
+   Leger D, 2005, CURR MED RES OPIN, V21, P1785, DOI 10.1185/030079905X65637
+   Leger D, 2002, SLEEP, V25, P625
+   Mantua J, 2018, BEHAV NEUROL, V2018, DOI 10.1155/2018/7940832
+   McRae K, 2020, EMOTION, V20, P1, DOI 10.1037/emo0000703
+   Morin CM, 2013, SLEEP MED CLIN, V8, P281, DOI 10.1016/j.jsmc.2013.05.002
+   Nutt David, 2008, Dialogues Clin Neurosci, V10, P329
+   Ohayon MM, 2002, SLEEP MED REV, V6, P97, DOI 10.1053/smrv.2002.0186
+   Ohayon MM, 2003, J PSYCHIAT RES, V37, P9, DOI 10.1016/S0022-3956(02)00052-3
+   Olding J, 2021, SURG-J R COLL SURG E, V19, pE9, DOI 10.1016/j.surge.2020.07.004
+   Pattinson CL, 2020, SLEEP, V43, DOI 10.1093/sleep/zsaa036
+   Pujasari H, 2020, J ASSOC NURSE AIDS C, V31, P606, DOI 10.1097/JNC.0000000000000192
+   Reyes V, 2019, BIOBIOCHILE
+   Salo P, 2014, SLEEP, V37, P1217, DOI 10.5665/sleep.3842
+   Schafer SK, 2020, PSYCHOTHER PSYCHOSOM, V89, P386, DOI 10.1159/000510752
+   Shen JL, 2020, BMC PUBLIC HEALTH, V20, DOI 10.1186/s12889-020-09400-2
+   Sierra JC, 2008, REV NEUROLOGIA, V47, P566, DOI 10.33588/rn.4711.2008221
+   van Dalfsen JH, 2018, SLEEP MED REV, V39, P187, DOI 10.1016/j.smrv.2017.10.002
+   Vedaa O, 2016, ERGONOMICS, V59, P1, DOI 10.1080/00140139.2015.1052020
+   Werneck AO, 2018, PSYCHIAT RES, V269, P700, DOI 10.1016/j.psychres.2018.08.101
+   Xie YJ, 2020, J MED INTERNET RES, V22, DOI 10.2196/18095
+NR 49
+TC 0
+Z9 0
+U1 1
+U2 3
+PU BRAZILIAN ASSOC SLEEP
+PI SAO PAULO
+PA RUA DR DIOGO FARIA, 508, VILA CLEMENTINO, SAO PAULO, SP 04037-001,
+   BRAZIL
+SN 1984-0659
+EI 1984-0063
+J9 SLEEP SCI
+JI Sleep Sci.
+PY 2022
+VL 15
+IS 1
+BP 26
+EP 32
+DI 10.5935/1984-0063.20210023
+PG 7
+WC Clinical Neurology
+WE Emerging Sources Citation Index (ESCI)
+SC Neurosciences & Neurology
+GA 1I9QX
+UT WOS:000797563100004
+PM 35662974
+OA gold, Green Published
+DA 2023-09-26
+ER
+
+PT J
+AU Iturriaga, J
+   Pinto, I
+AF Iturriaga, Jorge
+   Pinto, Ivan
+TI Towards an event-image. The "social outbreak" seen by six audiovisual
+   groups (Chile, October 2019)
+SO CINE DOCUMENTAL
+LA Spanish
+DT Article
+DE Chile; social explosion; October 2019; audiovisual collectives; social
+   network
+AB The article focuses on the work done by audiovisual collectives in the context of the social explosion that emerged in Chile in October 2019. It reviews the emergence of groups such as Colectivo Cinematografico Pedro Chaskel, OjoChile and Colectivo Registro Callejero, as well as the reactivation of others that had previously existed such as CaosGermen, Escuela Popular de Cine and Mapa Filmico de un Pais (MAFI). From the analysis of several shorts, in terms of their discursive and material operations, we will seek to comprehend their role in the context of the social explosion. It is argued that, far from the objectivist, uncritical and saturated use of images proposed by the mass media and social networks, these works are presented as interventions and events based on the accentuation of the formal characteristics of the image. The analysis is organized by assigning a specific modality of intervention to each audiovisual group, namely, to show, stimulate and re-signify, each one promoting a certain performative politics of the images.
+CR Araujo Kathya., 2019, HILOS TENSADOS LEER
+   Bartholeyns G, 2010, PERFORMANCE IMAGES
+   Becerra M., 2015, CONCENTRACION CONVER
+   Boehm Gottfried, 2012, ICONOCLASTIA AMBIVAL, P37
+   Cajas Edison, 2013, VALS INUTILES
+   Colectivo Mafi, 2014, PROPAGANDA
+   Didi-Huberman Georges, 2014, PUEBLOS EXPUESTOS PU
+   Marker Chris, 1977, FOND AIR EST ROUGE
+   Pinto Ivan, 2019, R HUMANIDAD, P349
+   Rudolf Anna-Carolina., 2017, ESTUDIOS VISUALES
+   Schefer Raquel., 2017, DEMARCACIONES, V5, P1
+   Sepulveda Jose Luis., 2014, CRONICA COMITE
+NR 12
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CINE DOCUMENTAL
+PI BUENOS AIRES
+PA VENEZUELA, 3318, BUENOS AIRES, C1211AAL, ARGENTINA
+SN 1852-4699
+J9 CINE DOC
+JI Cine Doc.
+PY 2020
+IS 22
+BP 28
+EP 56
+PG 29
+WC Film, Radio, Television
+WE Emerging Sources Citation Index (ESCI)
+SC Film, Radio & Television
+GA YH9JU
+UT WOS:000743476500002
+DA 2023-09-26
+ER
+
+PT J
+AU Rodriguez-Venegas, V
+   Duarte-Hidalgo, CM
+AF Rodriguez-Venegas, Viviana
+   Marcela Duarte-Hidalgo, Cory
+TI ?We are fighting for a fairer life?: Narratives of the social outbreak
+   in Chile, 2019
+SO PROSPECTIVA
+LA English
+DT Article
+DE Social movement; Social inequality; Chile social outburst; Collective
+   memory
+AB In October 2019, Chile experienced a process of intense social mobilization throughoutits territory, a social outburst that lasted until the start of the first restrictions due to thepandemic. In this framework, a qualitative study is carried out that aims to reveal narrativesfrom multiple nuances and visions that allow re-live the lived to understand the resistance,illusions, demands, and struggles in the process of social protests in Chile.The research uses a narrative design under the modality of remote interviews, viaWhatsApp, surveyed between November and December 2019. The main results show thesurprising massiveness, accumulated anger, and citizen (dis)illusions, as well as the need forprofound changes, historical demands, and resistance from an emotional and affective level.The novelty of the study is that it presents a view from the voices of citizens in differentterritories in the immediate context of the social outbreak
+C1 [Rodriguez-Venegas, Viviana; Marcela Duarte-Hidalgo, Cory] Univ Atacama, Copiapo, Chile.
+C3 Universidad de Atacama
+RP Rodriguez-Venegas, V (corresponding author), Univ Atacama, Copiapo, Chile.
+EM viviana.rodriguez@uda.cl; cory.duarte@uda.cl
+RI Duarte, Cory/HGU-0759-2022
+CR Alto Comisionado de las Naciones Unidas para los Derechos Humanos [ACNUDH], 2019, INFORME MISION CHILE
+   [Anonymous], 1990, METODOLOGIA ANALISIS
+   [Anonymous], 2014, AM LATINA TIEMPOS VI
+   Araujo Kathya., 2019, HILOS TENSADOS LEER
+   Arias Cardona Ana María, 2015, CES Psicol, V8, P171
+   Aylwin J., 2017, PROCESO CONSTITUYENT, P9
+   BIGLIA B, 2009, FQS FORUM QUALITATIV, V10, P1, DOI DOI 10.17169/FQS-10.1.1225
+   Braudel F., 2006, REV ACAD RELACIONES, P1
+   Brieba D., 2020, REV SOCIOLOGIA, V35, P31, DOI [10.5354/0719-529X.2020.58105, DOI 10.5354/0719-529X.2020.58105]
+   Butler J., 2017, HACIA TEORIA PERFORM
+   Butler J., 2019, VIDAS LUCHA CONVERSA
+   Duarte-Hidalgo C., 2022, ASPARKIA INVESTIGACI, P133, DOI [10.6035/asparkia.6174, DOI 10.6035/ASPARKIA.6174]
+   Dulci Tereza Maria Spyer, 2021, Rev. katálysis, V24, P43, DOI 10.1590/1982-0259.2021.e73555
+   Federici S., 2020, REENCANTAR MUNDO FEM
+   Gandarias-Goikoetxea I., 2015, OTRAS FORMAS RE CONO, P97
+   Garces M, 2019, OCTUBRE 2019 ESTALLI
+   Halbwachs M., 1995, REIS, V69, P209, DOI [10.2307/40183784, DOI 10.2307/40183784]
+   Halbwachs M., 1992, COLLECTIVE MEMORY
+   Haraway Donna, 1991, SIMIANS CYBORGS WOME, P149
+   Hiner H, 2022, INT J TRANSIT JUST, V16, P66, DOI 10.1093/ijtj/ijab035
+   Jelin E, 2002, TRABAJOS MEMORIA
+   Jim?nez-Ya?ez C., 2020, REV MEX SOCIOL, V82, P949, DOI DOI 10.22201/IIS.01882503P.2020.4.59213
+   Perez-Soto C., 2018, CIUDADANIAS DEMOCRAC, P29
+   Richardson L., 1994, HDB QUALITATIVE RES, P516
+   Ricoeur Paul, 1999, LECT TIEMPO PASADO M
+   Ricoeur Paul, 2008, MEMORIA HIST OLVIDO
+   Rivera-Cusicanqui S., 2010, REFLEXION PRACTICAS
+   Rivera-Cusicanqui S., 2018, ENSAYOS PRESENTE CRI
+   Rodriguez A, 2021, EYE, V35, P1666, DOI 10.1038/s41433-020-01146-w
+   Rojas-Hernandez J., 2006, SOC HOY, V10, P41
+   Ruiz-Encina C, 2022, ANU ESC HIST VIRTUAL, P15, DOI [10.31049/1853.7049.v.n21.34658, DOI 10.31049/1853.7049.V.N21.34658]
+   Salazar-Henao M., 2016, ENCUENTRO LATINOAMER
+   Sasse L., 2021, CHILE DESPERTO THE R
+   SCRIBANO A., 2017, REV LATINOAM METODOL, V13, P8
+   Segato Rita Laura, 2016, GUERRA MUJERES
+   Torres-Vásquez Henry, 2019, Rev. eleuthera, V20, P114, DOI 10.17151/eleu.2019.20.7
+NR 36
+TC 0
+Z9 0
+U1 4
+U2 4
+PU UNIV VALLE
+PI CALI
+PA CIUDAD UNIV MELENDEZ, CALLE 13 NO 100-00, CALI, 00000, COLOMBIA
+SN 0122-1213
+EI 2389-993X
+J9 PROSPECTIVA
+JI Prospectiva
+PD JAN-JUN
+PY 2023
+IS 35
+AR e21312373
+DI 10.25100/prts.v0i35.12373
+PG 21
+WC Social Work
+WE Emerging Sources Citation Index (ESCI)
+SC Social Work
+GA 7K5ZF
+UT WOS:000905360000002
+OA gold
+DA 2023-09-26
+ER
+
+PT J
+AU Pereira, IO
+   Medina, FC
+AF Ojeda Pereira, Ivan
+   Campos Medina, Fernando
+TI Social outbreak and COVID-19 in Chile: Rebuilding Public Policy and
+   Institutionality from Porosity and Resonance
+SO ESPACIO ABIERTO
+LA Spanish
+DT Article
+DE Sociology; public policy; Covid-19; social outbreak; Latin America;
+   resonance
+AB In this text it is postulated that the social outbreak or popular revolt, added to the COVID-19 glimpse a series of problematic elements for Chile. One of them is: the institutional and public policy crisis regarding the capacity to institutionalize phenomena of socio-political conflict and control of the pandemic. Henceforth, it is held that institutionality and public policy are the mainstays for overcoming the social and health crisis. However, if we continue with their rigid character and lack of porosity towards the citizens themselves, it is difficult for them to live up to this. As a result, the need to implement profound transformations is proposed, increasing the capacity of the State and reclaiming the notion of institutional development. This requires an increase in political capacity through the insertion of binding citizen participation mechanisms that are sustained over time and provide a normative sense to the measures developed. At the same time, the state's administrative capacity must also be increased, based on having personnel trained in the construction and management of technological mechanisms capable of keeping records of large volumes of data.
+C1 [Ojeda Pereira, Ivan; Campos Medina, Fernando] Univ Chile, Santiago, Chile.
+C3 Universidad de Chile
+RP Pereira, IO (corresponding author), Univ Chile, Santiago, Chile.
+EM ivan.ojeda@ug.uchile.cl; fernandocampos@uchile.cl
+RI Ojeda-Pereira, Iván/ABS-5954-2022
+OI Ojeda-Pereira, Iván/0000-0002-5146-0002
+CR AMPARO M., 2015, MEXICO ANATOMIA CORR
+   [Anonymous], 2021, POLITICA MOVIMIENTOS
+   [Anonymous], 2000, MODERNIDAD RAZON E I
+   BANDEIRA P., 2015, REV IBEROAMERICANA E, V4, P36
+   Bosoni G.B., 2020, 30 ANOS POLITICA NEO
+   BRAUDEL F., 2002, HISTORIA Y CIENCIAS
+   Canto Saenz R. A., 2000, GEST POLIT PUBLICA, VIX, P231
+   Cardoso F. H., 1996, DEPENDENCIA DESARROL
+   De la Hoz Reyes Remberto, 2016, Justicia, P107, DOI 10.17081/just.21.30.1353
+   Fuenmayor J, 2014, CINTA MOEBIO, V50, P39, DOI 10.4067/S0717-554X2014000200001
+   Gutiérrez Campos Luis, 2019, Cult.-hombre-soc., V29, P259, DOI 10.7770/0719-2789.2019.cuhso.03.a06
+   Huneeus Carlos, 2014, DEMOCRACIA SEMISOBER
+   JORDANA J., 2006, REGULACION POLITICAS
+   KATZ C., INSUMISOS LATINOAMER
+   Lira E, 2010, REV ESTUD SOC, P14, DOI 10.7440/res36.2010.02
+   Lustig Nora, 2020, NUEVA SOC, V286, P54
+   MEDELLIN P., 1994, REV CLAD REFORMA DEM, V2, P1
+   MILLS R., 1961, IMAGINACION SOCIOLOG
+   Natalucci Ana, 2018, Polis, V17, P103
+   O'DONNEL G., 2009, ESTADO BUROCRATICO A
+   OJEDA-PEREIRA I., 2020, REV INTERVENCION, V10
+   OJEDA-PERIERA I., 2020, REV CUADERNOS TEORIA, V6, P37
+   Parkin F., 1984, MARXISMO TEORIA CLAS
+   Pastrana Valls Alejandro, 2019, Rev. mex. opinión pública, P13, DOI 10.22201/fcpys.24484911e.2019.27.68726
+   Pierson P, 2004, POLITICS IN TIME: HISTORY, INSTITUTIONS, AND SOCIAL ANALYSIS, P1
+   RAPETTO F., DIMENSION POLITICO I
+   REPETTO F., 2003, CAPACIDAD ESTATAL RE
+   RODRIGUEZ O., 1987, TEORIA SUBDESARROLLO
+   Rodriguez Patricio, 2017, USO DATOS MASIVOS SU
+   Rosa Hartmut, 2019, RESONANCIA SOCIOLOGI
+   Ruiz Bruzzone Felipe Stefano, 2016, Izquierdas (Santiago), V0, P236
+   Ruiz C., 2020, OCTUBRE CHILENO IRRU
+   Ruiz C., 2014, CHILENOS BAJO NEOLIB
+   ruiz carlos, 2019, POLITICA NEOLIBERALI
+   Rumié Rojo Sebastián Andrés, 2019, Rev. mex. cienc. polít. soc, V64, P139, DOI 10.22201/fcpys.2448492xe.2019.235.61782
+   Socarras J., 2007, CIENC POLITICA, V2, P69
+   Surel Y, 2000, J EUR PUBLIC POLICY, V7, P495, DOI 10.1080/13501760050165334
+   WEBER Max., 2014, ECON SOC-BRAZ, V1
+   Wiesner Durán Eduardo, 2002, Rev.econ.inst., V4, P132
+NR 39
+TC 0
+Z9 0
+U1 0
+U2 3
+PU UNIV ZULIA, CONSEJO DESARROLLO CIENTIFICO & HUMANISTICO
+PI MARACAIBO
+PA AV UNIV CALLE 60 25-266, SECTOR GRANO DE ORO, MARACAIBO, 00000,
+   VENEZUELA
+SN 1315-0006
+J9 ESPACIO ABIERTO
+JI Espacio Abierto
+PD OCT-DEC
+PY 2020
+VL 29
+IS 4
+BP 196
+EP 208
+PG 13
+WC Social Sciences, Interdisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Social Sciences - Other Topics
+GA QG1GZ
+UT WOS:000617337300010
+DA 2023-09-26
+ER
+
+PT J
+AU Solis, RG
+   Cortes, RZ
+AF Ganter Solis, Rodrigo
+   Zarzuri Cortes, Raul
+TI Rhapsody of a Social Outbreak: narrative snippets and generational
+   expressions of 18-W in present-day Chile
+SO UNIVERSUM-REVISTA DE HUMANIDADES Y CIENCIAS SOCIALES
+LA Spanish
+DT Article
+DE Social Outbreak; Social Unrest; Political Subjectivity; Repolitization;
+   Generations
+AB This article is part of the theoretical reflection supported by the evidence accumulated by more than 20 years of experience and research in the field of Youth Studies in recent Chile. The basic objective of the article is to present the preliminary work of contextualization of the 18-O social outbreak, the bibliographic discussion and the provisional working hypotheses, putting into perspective what happened in the framework of the so-called social outbreak in Chile, particularly from what we call the Generational implications put into play in this event. The methodology responds to what is known in the social sciences as Multimethod, which includes a variety of techniques to collect data ranging from the application of in-depth interviews, participant observation, press review, and critical analysis of literature. The main results of this theoretical discussion that we present here raise a phenomenon of political re-politicization that has been gradually and progressively forging in Chile, particularly visible since the beginning of the 21st century. In addition to the above, the emergence of a new generational political subjectivity for the current social and political scenario is postulated.
+C1 [Ganter Solis, Rodrigo] Red Iberoamer Invest Imaginarios & Representac, Grp Trabajo Juventudes, Bogota, Colombia.
+   [Zarzuri Cortes, Raul] Univ Acad Humanismo Cristiano, Escuela Sociol, Santiago, Chile.
+C3 Universidad Academia de Humanismo Cristiano
+RP Solis, RG (corresponding author), Red Iberoamer Invest Imaginarios & Representac, Grp Trabajo Juventudes, Bogota, Colombia.
+EM rganter@udec.cl; rzarzuri@gmail.com
+CR Álvarez Valdés Carolina, 2018, Ultima décad., V26, P40
+   Andonie M., 2020, EL MOSTRADOR
+   [Anonymous], 1993, REIS REV ESPANOLA IN, DOI DOI 10.2307/40183643
+   [Anonymous], 1991, PODER MOVIMIENTO MOV
+   [Anonymous], 2013, WORLD PROTESTS 2006
+   [Anonymous], 1988, PATIOS INTERIORES DE
+   Claude M., 2020, RETRATO CLAN 1 LINEA
+   Fernandez Droguett R., 2020, DIARIOUCHILE
+   Ganter R., 2015, DIALOGOS JUVENTUA IB
+   Ganter R., 1999, PERSPECTIVAS, P5
+   Ganter R., 2004, REVISAR PASADO CRITI
+   Ganter R., 2017, UNIVERSUM-TALCA, V2, P81
+   Ganter Rodrigo, 2005, NUEVAS GEOGRAFIAS JU
+   Ghiardo Felipe, 2004, Ultima décad., V12, P11
+   Gonzalez Y., 2013, CONSTRUCCION HIST JU
+   Gonzalez Y, 2010, ALPHA-REV ARTES LET, P111, DOI 10.4067/S0718-22012010000100008
+   Guel P., 2019, REV MENSAJE
+   Leccardi Carmen, 2011, Ultima décad., V19, P11
+   Margulis M., 2003, JUVENTUD CULTURA SEX
+   Mead Margaret, 1977, CULTURA COMPROMISO
+   Medel Sierralta Rodrigo Miguel, 2016, Polít. gob, V23, P163
+   Munoz G., 2019, DESINFORMEMONOS
+   Muñoz Tamayo Víctor, 2011, Ultima décad., V19, P113
+   Organizacion de las Naciones Unidas, 2019, INF MIS CHIL 30 OCT
+   Ortega, 1955, TEMA NUESTRO TIEMPO
+   Pleyers Geoffrey, 2018, MOVIMIENTOS SOCIALES
+   Programa de las Naciones Unidas para el Desarrollo, 2003, TEM DES HUM SUST
+   Programa de las Naciones Unidas para el Desarrollo, 2012, INF DES HUM CHIL
+   Programa de las Naciones Unidas para el Desarrollo, 1998, DES HUM CHIL PAR MOD
+   Programa de las Naciones Unidas para el Desarrollo, 2015, INF DES HUM CHIL
+   Recalcati Massimo, 2014, COMPLEJO TELEMACO PA
+   Reguillo R., 2017, PAISAJES INSURRECTOS, VKindle edition
+   Reguillo R., 2000, EMERGENCIA CULTURAS
+   Salazar G., 2002, HIST CONT CHILE NINE, V5
+   Santibáñez Rodríguez Pablo, 2016, Ultima décad., V24, P39
+   Somma N., 2015, RESEARCHGATE, DOI [10.13140/RG.2.1.3820.6161, DOI 10.13140/RG.2.1.3820.6161]
+   Valenzuela J.M., 2013, JUVENICIDIO AYOTZINA
+   Zarzuri R., 2020, 1 LINEA ACCION UNPUB
+   Zarzuri R., PUEBLO UNIDO M UNPUB
+   Zarzuri R., 2016, ULTIMA DECADA, V26, P61
+   Zarzuri Raul, 2002, CULTURAS JUVENILES N
+NR 41
+TC 0
+Z9 0
+U1 0
+U2 2
+PU UNIV TALCA, INST ESTUDIOS HUMANISTICOS JUAN IGNACIO MOLINA
+PI TALCA
+PA AV LIRCAY S-N, TALCA, CHILE
+SN 0718-2376
+EI 0716-498X
+J9 UNIVERSUM-TALCA
+JI Universum-Rev. Humanidades Cienc. Soc.
+PD JUN
+PY 2020
+VL 35
+IS 1
+BP 74
+EP 103
+PG 30
+WC Humanities, Multidisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Arts & Humanities - Other Topics
+GA OJ0MR
+UT WOS:000583662500004
+DA 2023-09-26
+ER
+
+PT J
+AU Jimenez, BG
+   Mora, AP
+AF Guerrero Jimenez, Bernardo
+   Perez Mora, Alexander
+TI Social outbreak and pandemic: from councils to common pots. The case of
+   the Norte Grande of Chile
+SO ESPACIO ABIERTO
+LA Spanish
+DT Article
+DE Common Pots; Social outbreak; Pandemic; Civil society; Crisis;
+   Solidarity
+AB The connection between the social outbreak of October 18, 2019, with the Covid19 health crisis is descriptively analyzed. It is proposed to visualize both phenomena interconnected with each other and not in a sequential line. He wonders about the role of civil society in overcoming both the Constitution of the year 80, product of the Pinochet dictatorship, and in the way of protection against health risks. Special attention is paid to the expressions of solidarity that these crises have triggered in the reality of the North of Chile.
+C1 [Guerrero Jimenez, Bernardo; Perez Mora, Alexander] Univ Arturo Prat, Iquique, Chile.
+C3 Universidad Arturo Prat
+RP Jimenez, BG (corresponding author), Univ Arturo Prat, Iquique, Chile.
+EM bernardo.guerrero@gmail.com; aleperez@unap.cl
+CR AGUAYO P., 2020, EVADIR FILOSOFIA PIE, P306
+   ALFARO C., 1936, RESENA GEN PROVINCIA
+   [Anonymous], 2011, SEGURIDAD TERRITORIO
+   GALAZ-MANDAKOVIC D., 2013, MIGRACION BIOPOLITIC
+   GALLARDO B., 1987, RE DESCUBRIMIENTO CA
+   GUERRERO B., 1985, THESIS
+   GUERRERO B., 2018, CREAR CUARENTA ANOS
+   HARDY C., 1987, ORGANIZARSE VIVIR PO
+   Lalive C., 1968, REFUGIO MASAS
+   Mauss M, 2009, ENSAYO DON FORMA FUN
+   Mayol A., 2019, BIG BANG ESTALLIDO S
+   Michelson Constanza., 2020, HASTA QUE VALGA PENA
+   Pe??a C., 2020, PENSAR MALESTAR CRIS
+   PINA C., 1987, PROGRAMA APOYO ORGAN
+   Tijoux M. E., 2016, RACISMO CHILE PIEL C
+   WATTS S., 2000, EPIDEMIA PODER HISTO
+   Weber M., 2001, ESTRUCTURAS DE PODER
+   ZOLA J., 2006, TARAPACA NOVELA LOCA
+NR 18
+TC 0
+Z9 0
+U1 0
+U2 2
+PU UNIV ZULIA, CONSEJO DESARROLLO CIENTIFICO & HUMANISTICO
+PI MARACAIBO
+PA AV UNIV CALLE 60 25-266, SECTOR GRANO DE ORO, MARACAIBO, 00000,
+   VENEZUELA
+SN 1315-0006
+J9 ESPACIO ABIERTO
+JI Espacio Abierto
+PD OCT-DEC
+PY 2020
+VL 29
+IS 4
+BP 106
+EP 117
+PG 12
+WC Social Sciences, Interdisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Social Sciences - Other Topics
+GA QG1GZ
+UT WOS:000617337300006
+DA 2023-09-26
+ER
+
+PT J
+AU Painemal, VAG
+AF Painemal, Valeria Andrea Gonzalez
+TI People with disabilities and the use of police force in the context of
+   the social outbreak in Chile
+SO REVISTA ESPANOLA DE DISCAPACIDAD-REDIS
+LA Spanish
+DT Article
+DE Protest; people with disabilities; Chilean police; social outburst;
+   public order control; protocols; Human Rights
+AB The massive demonstrations that took place in Chile since October 2019 have un-fortunately resulted in massive violations of human rights. Among the victims were also people with disabilities, who suffered from police actions to control public order during the protests. The purpose of this article is to report the violations suffered by this group as a contribution to their political memory, using as a source nation-al media and human rights reports, and to review whether the protocols for the maintenance of public order of the Chilean police "Carabineros de Chile", the main responsible in this matter, contain specific provisions for dealing with people with disabilities, that could have prevented such violations. All of this is in line with the observations of the final report for Chile of the Committee on the Rights of Persons with Disabilities. In the absence of police regulations in Chile in accordance with the human rights of persons with disabilities, this article incorporates the internal recom-mendations that the National Disability Service of Chile has provided to that institu-tion, all of them obtained through Law No. 20.285 on access to public information.
+C1 [Painemal, Valeria Andrea Gonzalez] Univ Chile, Santiago, Chile.
+C3 Universidad de Chile
+RP Painemal, VAG (corresponding author), Univ Chile, Santiago, Chile.
+EM vgpainemal@ug.uchile.cl
+CR Alto Comisionado para las Naciones Unidas, 2019, INF MIS CHIL 30 OCT
+   Alvarez G., 2002, METODOLOGIA INVESTIG
+   Andrade C., 2019, HILOS TENSADOS LEER, P217
+   [Anonymous], 2005, DERECHO PROTESTA PRI
+   [Anonymous], 2020, DESCONCIERTO 1012
+   [Anonymous], 2019, DESCONCIERTO 1106
+   [Anonymous], 2020, FISC EL 5 558 VICT Q
+   Araujo K., 2019, HILOS TENSADOS LEER, P15
+   Archivo Redes, 2019, YOUTUBE
+   Asamblea General de Naciones Unidas, 2016, A71314 AS GEN NAC UN
+   Bassa Mercado Jaime, 2019, Izquierdas (Santiago), P105
+   Benente M., 2013, 7 JORNADAS J VENES I
+   Bregain G., 2021, PASADO ABIERTO, P56
+   CADEM, 2022, ENC PLAZ PUBL 2 SEM, V457
+   Carabineros de Chile, 2020, 2780 CAR CHIL
+   Carabineros de Chile, 2019, DIARIO OFCIAL R 0304
+   Carabineros de Chile, 2021, 2870 CAR CHIL
+   Carabineros de Chile, 1832 CAR CHIL
+   Chile, 2008, BIBLIOTECA CONGRESO
+   Colectivo Nacional de la Discapacidad, 2019, NUESTR PRINC DEM REC
+   Comision Interamericana de Derechos Humanos, 2020, CIDH CULM VIS LOC CH
+   Comision Interamericana de Derechos Humanos, 2019, OEASERLVIICIDHRELEIN
+   Comite sobre los Derechos de las personas con Discapacidad (CRPD), 2016, CRPDCCHLCO1
+   Consejo de Derechos Humanos, 2014, AHRC2629 CONS DER HU
+   Consejo de Derechos Humanos, 2016, AHRC3166 CONS DER HU
+   Consejo de Derechos Humanos, 2014, AHRC25L20 CONS DER H
+   Consejo Nacional de la Cultura y las Artes Gobierno de Chile, 2017, REC US LENG INCL PER
+   Corral H., 2008, COMO HACER TESIS DER
+   Corte de Apelaciones de Temuco, 2019, AMP 224 2019
+   Defensoria Juridica de la Universidad de Chile, 2020, INF DEF JUR U CHIL S
+   El Mostrador, 2019, MOSTRADOR 1217
+   Instituto Nacional de Derechos Humanos, 2020, INF AN SIT DER HUM C
+   Instituto Nacional de Derechos Humanos, 2022, REP GEN ACC JUD CONT
+   Instituto Nacional de Derechos Humanos, 2020, INDH NOTICIAS D 1204
+   Instituto Nacional de Derechos Humanos, 2021, INF AN SIT DER HUM C
+   Instituto Nacional de Derechos Humanos, 2020, ARCH REP EST
+   Instituto Nacional de Derechos Humanos, 2019, INF AN SIT DER HUM C
+   Irarrazaval P., 2021, LEY EMERGENCIA ENSAY, P201
+   Jelin E, 2002, TRABAJOS MEMORIA
+   Lapierre M., 2021, REV ESP DISCAPAC-RED, V9, P81, DOI DOI 10.5569/2340-5104.09.02.05
+   Lovera D., 2021, LATIN AM LAW REV, V06, P25, DOI [10.29263/lar06.2021.02, DOI 10.29263/LAR06.2021.02]
+   Marshall P., 2020, ANUARIO DERECHOS HUM, V16, P235, DOI 10.5354/0718-2279.2020.58951
+   Matamala M., 2022, TERCERA 1022
+   Organizacion de los Estados Americanos, 1948, DECL AM DER DEB HOMB
+   Organizacion de los Estados Americanos [OEA], 1969, CONV AM DER HUM PACT
+   Organizacion de Naciones Unidas, CONV DER PERS DISC C
+   Organizacion de Naciones Unidas, 1990, ADOPTADOS 8 CONGRESO
+   Organizacion de Naciones Unidas: Asamblea General Pacto Internacional de Derechos Civiles y Politicos (PIDCP), 1966, AD AB FIRM RAT ADH A
+   Palacios A., 2007, DISCAPACIDAD COMO CU
+   Perez-Roa L., 2019, HILOS TENSADOS LEER, P83
+   Rasse A., 2019, HILOS TENSADOS LEER, P107
+   Schlack E., 2019, HILOS TENSADOS LEER, P201
+   Servicio Nacional de la Discapacidad (SENADIS), 2019, DECL SERV NAC DISC S
+   Stecher A., 2019, HILOS TENSADOS LEER, P37
+   Stuardo M., 2019, RADIO BIOBIO 1028
+   Subsecretaria de Derechos Humanos. Gobierno de Chile, COM TECN AS DER HUM
+NR 56
+TC 0
+Z9 0
+U1 2
+U2 2
+PU CENTRO ESPANOL DOCUMENTACION DISCAPACIDAD-CEDD
+PI MADRID
+PA REAL PATRONATO DISCAPACIDAD, CALLE SERRANO, 140, MADRID, 28006, SPAIN
+SN 2340-5104
+J9 REV ESP DISCAPAC-RED
+JI Rev. Esp. Discapac.-REDIS
+PD DEC
+PY 2022
+VL 10
+IS 2
+BP 155
+EP 184
+DI 10.5569/2340-5104.10.02.09
+PG 30
+WC Rehabilitation
+WE Emerging Sources Citation Index (ESCI)
+SC Rehabilitation
+GA 8H0MG
+UT WOS:000920732700009
+OA gold, Green Submitted
+DA 2023-09-26
+ER
+
+PT J
+AU Gallegos, OB
+   Gonzalez, SF
+   Riquelme, CM
+AF Gallegos, Oscar Basulto
+   Gonzalez, Sebastian Fuentealba
+   Riquelme, Catalina Mendoza
+TI SOCIAL SIGNIFICANCE OF VIOLENCE IN TRADITIONAL CHILEAN WRITTEN PRESS
+   NARRATIVES: A CASE STUDY IN THE CONTEXT OF THE SOCIAL OUTBREAK IN CHILE
+   (18-O)
+SO PRISMA SOCIAL
+LA English
+DT Article
+DE Written press; media narratives; social significance; forms of violence;
+   imaginaries and social representations; chilean social outbreak
+AB The objective of this article is to characterize narratives of the traditional written press, conveyed by representations and social imaginaries that mean expressions of violence, framed in the so-called social outbreak of October 18, 2019 in Chile. In methodological terms, it has a combined and embedded design, complementing quantitative and qualitative content analysis, based on Galtung's typology of violence. The Chilean newspapers El Mercurio and La Tercera were analyzed between October 18, 2019 and March 5, 2020. Some relevant quantitative findings indicate that both media considerably address direct violence, but not structural violence. These data make more sense with the qualitative findings, which suggest the existence of social meanings, such as the representation of the criminal vandalism protest that supports an imaginary of social chaos and public disorder, criminalizing social mobilization. Therefore, the representation of the validation of police-military action as a guarantor of social order and of a dominant imaginary such as the neoliberal model also appears. The main conclusions of the study maintain that the analyzed media maintain a hegemonic narrative around the maintenance of a radicalized neoliberal order in Chile.
+C1 [Gallegos, Oscar Basulto] Univ Catolica Santisima Concepcion, Concepcion, Chile.
+   [Gonzalez, Sebastian Fuentealba] Univ Concepcion, Concepcion, Chile.
+   [Riquelme, Catalina Mendoza] Univ Chile, Santiago, Chile.
+C3 Universidad Catolica de la Santisima Concepcion; Universidad de
+   Concepcion; Universidad de Chile
+RP Gallegos, OB (corresponding author), Univ Catolica Santisima Concepcion, Concepcion, Chile.
+EM obasulto@ucsc.cl; Sebfuentealba@udec.cl; catamendoza@ug.uchile.cl
+RI Matamala, Carolina/ABB-4938-2020
+OI Matamala, Carolina/0000-0001-5081-2873
+CR Aguilera O., 2014, GENERACIONES MOVIMIE
+   Alvarado Alcázar Alejandro, 2020, Rev. Rup., V10, P25, DOI 10.22458/rr.v10i1.2749
+   Amigo B, 2016, CUAD INFO-SANTIAGO, P151, DOI 10.7764/cdi.39.754
+   Andr?u Jaime, 2003, TECNICAS ANALISIS CO
+   [Anonymous], 2016, REV AUSTRAL CIENCIAS, DOI DOI 10.4206/REV.AUSTRAL.CIENC.SOC.2016.N30-01
+   [Anonymous], 2010, LEGITIMA CRIMINALIZA
+   [Anonymous], 2010, LEGITIMA CRIMINALIZA
+   [Anonymous], 2004, REV DEBATES
+   [Anonymous], 2001, CONCENTRACION EC MED
+   [Anonymous], MDPI, V13, P1
+   [Anonymous], 2000, PROCESO OPINION PUBL
+   [Anonymous], 2007, OSAL
+   [Anonymous], 2000, CAMINOS INVISIBLES R
+   [Anonymous], 1976, CONSTRUCCION SOCIAL
+   Araujo Kathya., 2019, HILOS TENSADOS LEER
+   Arrue Michele, 2012, LES CAHIERS ALHIM, V24, DOI [10.4000/alhim.4388, DOI 10.4000/ALHIM.4388]
+   Artese M, 2009, AM LAT HOY, V52, P149
+   AZPIROZ M. L., 2013, ESTUDIOS MENSAJE PER, VXXVI, P176
+   Baeza M., 2008, MUNDO REAL MUNDO IMA
+   Baeza M. A., 2015, HACER MUNDO SIGNIFIC
+   Baeza Manuel, 2007, 26 CONGRESO ASOCIACI
+   Baeza Manuel Antonio, 2003, IMAGINARIOS SOCIALES
+   Basulto O, 2020, REV HUMANIDADES CIEN, V35, P250
+   Basulto Oscar, 2020, MANIFESTACIONES HUMA, P69
+   Bertoni Eduardo, 2010, BERTONI EDUARDO COMP
+   Betancourt Valeria, 2011, CHASQUI-REV LAT COM, V116, P94
+   Bravo Rodrigo, 2016, CHILE CONCENTRADO IN, VPrimera
+   Breull Luis, 2015, CONSEJO NACL TELEVIS
+   Browne R, 2010, COMUNICAR, V18, P85, DOI 10.3916/C35-2010-03-01
+   C?rdenas Camila, 2018, APPL ENVIRON MICROB, V37, P217, DOI [10.29344/0717621x.37.1381, DOI 10.29344/0717621X.37.1381]
+   CADEM, 2020, EST MED COM POST CRI
+   CAMPOS MEDINA LUIS, 2020, Universum, V35, P18
+   Cárdenas Camila, 2017, Rev.latinoam.cienc.soc.niñez juv, V15, P1067, DOI 10.11600/1692715x.1521814092016
+   Cárdenas Neira Camila, 2016, Estud. filol., P25
+   Cárdenas Neira Camila, 2014, Ultima décad., V22, P57
+   Castells Manuel, 2019, RUPTURA CRISIS DEMOC
+   Castoriadis C., 1989, I IMAGINARIA SOC
+   Centro de Estudios Publicos (CEP), 2020, EST NAC OP PUBL N 84
+   Colegio de Periodistas de Chile, 2016, CONC MED COM CHIL SU
+   Comision Interamericana de Derechos Humanos (CIDH), 2015, CRIM LAB DEF DEF DER
+   Corrales Osvaldo, 2005, CONCENTRACION MEDIOS
+   Creswell JW, 2018, DESIGNING CONDUCTING, V3rd
+   Cuevas Hern?n, 2021, REV FARO, V32, P159
+   Del Valle Carlos, 2005, INTERCULTURALIDAD IN
+   Dittus R, 2018, IMAGINARIOS REPRESEN, P223
+   Dittus R, 2017, CINTA MOEBIO, V58, P103, DOI 10.4067/S0717-554X2017000100103
+   Gronemeyer ME, 2014, PALABRA CLAVE, V17, P71, DOI 10.5294/pacla.2014.17.1.3
+   Elias N., 1987, PROCESO CIVILIZACION
+   Favela Margarita, 2011, AMPLIACION CIUDADANI
+   Fernandez F., 2015, ATHENEA DIGITAL, V15, P267
+   Follegati Luna, 2018, PLEYADE, P157, DOI [10.4067/S0719, DOI 10.4067/S0719]
+   Fuentes C., 2019, EROSION DEMOCRACIA
+   Gadamer Hans-Georg, 2000, VERDAD METODO 1 FUND
+   GALTUNG J, 1990, J PEACE RES, V27, P291, DOI 10.1177/0022343390027003005
+   Garces A, 2014, EURE, V40, P141, DOI 10.4067/S0250-71612014000300007
+   Gargarella Roberto, 2008, REV FACULTAD DERECHO, V58, P183
+   Gascón i Martín Felip, 2015, Ultima décad., V23, P25
+   Global Witness, 2018, QUE PREC MED AMB MOR
+   Global Witness, 2017, DEF TIERR MED AMB MO
+   Global Witness, 2019, EN STAT
+   Godoy Sergio, 2016, WHO OWNS WORLDS MEDI, DOI [10.1093/acprof:oso/9780199987238.001.0001, DOI 10.1093/ACPROF:OSO/9780199987238.001.0001]
+   Gonzalez Juan, 2006, PRENSA CHILE NEOLIBE
+   Gramsci A., 1999, CUADERNOS CARCEL, V5
+   Guerra P., 2019, BIBLIOTECA CONGRESO
+   GUTIÉRREZ MUÑOZ ÓSCAR, 2020, Universum, V35, P104
+   Jodelet Denise, 1984, PSICOLOGIA SOCIAL II, P478
+   Llanos Cecilia, 2015, CRIMINALIZACION MEDI
+   L┬u┬Epez S., 2004, TAM TAM DOBLE CLICK
+   Mart?n -Barbero Jes?s., 2002, SIGNO PENSAM, VXXI, P13
+   Mayol A., 2019, BIG BANG ESTALLIDO S
+   Montecino L?smer, 2011, CADERNOS LINGUAGEM S, V12, P179, DOI [10.26512/les.v12i2.11510, DOI 10.26512/LES.V12I2.11510]
+   Morales Quiroga Mauricio, 2020, anal.polit., V33, P3, DOI 10.15446/anpol.v33n98.89407
+   Moscovici S., 1979, PSICOANALISIS IMAGEN
+   Muñoz Tamayo Víctor, 2014, Ultima décad., V22, P89
+   Navarro M. L., 2013, BOLET N ONTEAIKEN, P71
+   nckeberg Mar, 2009, MAGNATES PRENSA
+   Neira Camila Cárdenas, 2017, OBS*, V11, P42
+   Ortega Tamara, 2014, EURE, V120, P241, DOI [10.4067/S025071612014000200012%C2%A0, DOI 10.4067/S025071612014000200012%C2%A0]
+   Ossand?n Carlos, 2020, EUR PHYS J C, V35, P190
+   Paredes J., 2019, MOVIMIENTOS SOCIALES, P133
+   Pe?a Carlos, 2020, PENSAR MALESTAR CRIS
+   Pintos J., 1995, IMAGINARIOS SOCIALES
+   PNUD, 1998, PAR MOD
+   Rateau P, 2013, REV CES PSICOL, V6, P22
+   Rodriguez E.C., 2015, PENSAMIENTO JURIDICO, V42, P47
+   Rodriguez Eduardo, 2010, LEGITIMA CRIMINALIZA, P17
+   Rodriguez-Mancilla M, 2020, UNIVERSITAS, P201, DOI 10.17163/uni.n33.2020.10
+   Rovira-Sancho Guiomar, 2013, Convergencia, V20, P35
+   rquez Francisca, 2020, REVISTA, V180, DOI [10.32995/rev180.Num-45.(2020).art-717, DOI 10.32995/REV180.NUM-45.(2020).ART-717]
+   Ruiz C, 2020, ESPACIO ABIERTO, V29, P86
+   Segovia Lacoste P., 2018, REV METODOLOGIA CIEN, V41, P79, DOI [10.5944/empiria.41.2018.22605, DOI 10.5944/EMPIRIA.41.2018.22605]
+   Segovia Pablo, 2006, REV ENFOQUE SOCIOL G, V6, P18
+   Silva Dreyer Carmen, 2013, Ultima décad., V21, P91
+   Sola -Morales Salom, 2015, REV LATINOAMERICANA, V128, P37, DOI [10.16921/chasqui.v0i128.2243, DOI 10.16921/CHASQUI.V0I128.2243]
+   Solano Vanessa., 2017, REV TRABAJO SOCIAL, V92, P1, DOI DOI 10.7764/RTS.92.1-13
+   Soliz Mar?a, 2014, RESTAURACION CONSERV, P153
+   Uprimny R., 2010, ES LEG TIMA CRIMINAL, P47
+   Valenzuela -Fuentes Katia, 2021, SUSTAINABILITY-BASEL
+   Verd JM, 2008, EMPIRIA, P13
+   VERON Eliseo, 1993, SEMIOSIS SOCIAL FRAG
+   Zarzuri Raul, 2009, REV ACAD, V14, P151
+   Zarzuri Raul, 2013, ESCRITOS PSICOL, V4, P57
+NR 102
+TC 0
+Z9 0
+U1 1
+U2 1
+PU FUNDACION IS&D INVESTIGACION SOCIAL AVANZADA
+PI LAS MATAS
+PA CALLE ZALAMEA 1, LAS MATAS, 00000, SPAIN
+SN 1989-3469
+J9 PRISM SOC
+JI Prism. Soc.
+PD JAN
+PY 2023
+IS 40
+BP 289
+EP 326
+PG 38
+WC Social Sciences, Interdisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Social Sciences - Other Topics
+GA 8R7KS
+UT WOS:000928070100013
+DA 2023-09-26
+ER
+
+PT J
+AU Villagran, L
+   Reyes-Valenzuela, C
+   Alzugaray, C
+   Zumarraga-Espinosa, M
+   Mendez, J
+AF Villagran, Loreto
+   Reyes-Valenzuela, Carlos
+   Alzugaray, Carolina
+   Zumarraga-Espinosa, Marcos
+   Mendez, Jaime
+TI The mediating role of emotions in offline and online political
+   participation: A post-social outbreak study in Ecuador and Chile
+SO FRONTIERS IN PSYCHOLOGY
+LA English
+DT Article
+DE Chile; Ecuador; emotions; offline and online; political participation;
+   social outbreak
+ID MOVEMENT; ANGER; MOBILIZATION; INTERNET; FACEBOOK; PROTESTS; BEHAVIOR;
+   MODEL
+AB IntroductionIn 2019, there was a period of social outbreaks in several Latin American countries, which share a background of social inequality, distrust in authorities, a crisis of representativeness, and discontent towards social and economic policies. In October 2019, in Ecuador and Chile, participation in these protests was characterized by street protests and broad political participation in social networks and alternative media, which were followed or interrupted by the COVID-19 pandemic. These facts have been deeply researched, addressing causal and structural factors of the phenomenon, the alternatives of political participation, and the role of emotions as determinants of action in these contexts. The objective of this study is to explore offline and online political participation (Facebook) after the social outbreak of 2019 in both countries, based on political interest, and how emotions intervene, especially negative ones, in a context of high demobilization. MethodsA descriptive, correlational ex post facto and cross-sectional methodology was used, with the participation of 367 people, 210 from Ecuador (57.2%) and 157 from Chile (42.8%), aged between 17 and 48 years (M = 22.13, SD = 3.73). The measurement was carried out from 2020 to 2021. ResultsA mediation analysis showed that people who are more interested in politics are more likely to experience anger and anxiety with the political and economic situation, which motivates conventional political participation (Model 1). In Model 2 people who showed greater concern about the political and economic impacts of the COVID-19 pandemic and together with anger, favor online political participation, especially local support. DiscussionThese results suggest the influence of emotions on political participation, which occurs when there is an increase in social discontent due to government policies adopted during the pandemic and which represents a continuity of the discontent that was expressed in the October 2019 social outbreak.
+C1 [Villagran, Loreto; Mendez, Jaime] Univ Concepcion, Fac Ciencias Sociales, Dept Psicol, Concepcion, Chile.
+   [Reyes-Valenzuela, Carlos] Univ Andina Simon Bolivar, Quito, Ecuador.
+   [Alzugaray, Carolina] Univ Santo Tomas, Escuela Psicol, Fac Ciencias Sociales, Concepcion, Chile.
+   [Zumarraga-Espinosa, Marcos] Univ Politecn Salesiana, Cuenca, Ecuador.
+C3 Universidad de Concepcion; Universidad Santo Tomas; Universidad
+   Politecnica Salesiana
+RP Alzugaray, C (corresponding author), Univ Santo Tomas, Escuela Psicol, Fac Ciencias Sociales, Concepcion, Chile.
+EM carolinaalzugaray@santotomas.cl
+CR Alice P., 2017, APOSTA REV CIENCIAS, P32
+   [Anonymous], 2016, EMOTIONS INT POLITIC
+   [Anonymous], 2011, SUPERANDO VIOLENCIA
+   [Anonymous], 1992, TALKING POLITICS
+   Aguilera MCA, 2021, SIGNO SENA, V40, P83, DOI 10.34096/sys.n40.11482
+   Asun R., 2021, REV SOCIOLOGIA, V36, P6, DOI [10.5354/0719-529x.2021.64423, DOI 10.5354/0719-529X.2021.64423]
+   Asún Rodrigo A., 2020, Ultima décad., V28, P5
+   Ato M, 2013, AN PSICOL-SPAIN, V29, P1038, DOI 10.6018/analesps.29.3.178511
+   Becker AB, 2014, MASS COMMUN SOC, V17, P424, DOI 10.1080/15205436.2014.891134
+   Belli S., 2022, LECCIONES RETOS TRAS, P133
+   Belli S., 2018, SUJETOS COLECTIVOS M
+   Belli S, 2021, HUM AFF, V31, P59, DOI 10.1515/humaff-2021-0006
+   Belli S, 2020, REV FILOS-MADR, V45, P179, DOI 10.5209/resf.59482
+   Best SJ, 2011, AM POLIT RES, V39, P85, DOI 10.1177/1532673X10380848
+   Borge Rosa, 2012, ARBOR, V188, P733, DOI [10.3989/arbor.2012.756n4008, DOI 10.3989/ARBOR.2012.756N4008]
+   Calderon C., 2021, REV CIENC SOC-VENEZ, V30, P66
+   Cardenas M., 2006, REV PSICOL SOC, V21, P153, DOI [10.1174/021347406776591549, DOI 10.1174/021347406776591549]
+   Carroll WK, 2006, MEDIA CULT SOC, V28, P83, DOI 10.1177/0163443706059289
+   Caruso G., 2022, CULTURE SOC, V28(1), P1, DOI [10.1057/s41282-022-00302-3, DOI 10.1057/S41282-022-00302-3]
+   Coleman S, 2009, COMMUN SOC POLIT, P1, DOI 10.1017/CBO9780511818271
+   Conejeros J., 2020, ESCUCHANDO CHILENOS
+   Curnow J, 2020, INFORM LEARN SCI, V121, P729, DOI 10.1108/ILS-01-2020-0017
+   DAVIES JC, 1962, AM SOCIOL REV, V27, P5, DOI 10.2307/2089714
+   Defensoria del Pueblo de Ecuador (DPO), 2021, INF COM ESP VERD UST
+   Dettano A., 2021, SPHERA P BLICA REV C, V21, P137
+   Garcia M. O., 2020, REVISTAFRO, V2
+   Gerbaudo P, 2016, INT J COMMUN-US, V10, P254
+   Goldenberg A, 2020, TRENDS COGN SCI, V24, P316, DOI 10.1016/j.tics.2020.01.009
+   Gonzalez R., 2021, RADIOGRAFIA CAMBIO S
+   Guaman I. A. R., 2021, REV IBERICA SISTEMAS, VE40, P1
+   GUIMOND S, 1983, J PERS SOC PSYCHOL, V44, P526, DOI 10.1037/0022-3514.44.3.526
+   Hayes A.F., 2018, INTRO MEDIATION MODE, V2nd
+   Hong H, 2021, ONLINE INFORM REV, V45, P562, DOI 10.1108/OIR-03-2020-0105
+   Hou WK, 2018, J COUNS PSYCHOL, V65, P120, DOI 10.1037/cou0000236
+   Izard C, 2008, CHILD DEV PERSPECT, V2, P156, DOI 10.1111/j.1750-8606.2008.00058.x
+   Izard CE, 2007, PERSPECT PSYCHOL SCI, V2, P260, DOI [10.1111/j.1745-6916.2007.00044.x, 10.1111/j.1745-6916.2007.00053.x]
+   Jasper J. M., 2014, COLLECTIVE EMOTIONS, P341, DOI https://doi.org/10.1093/acprof:oso/9780199659180.003.0023
+   Jasper JM, 2011, ANNU REV SOCIOL, V37, P285, DOI 10.1146/annurev-soc-081309-150015
+   Lavin Pedro Aravena, 2022, [Asian Journal of Latinamerican Studies, 라틴아메리카연구], V35, P59
+   Sabucedo JM, 2014, UNIV PSYCHOL, V13, P829, DOI 10.11144/Javeriana.UPSY13-3.apep
+   Marcus GE., 2000, AFFECTIVE INTELLIGEN
+   Marquez Dominguez C., 2021, COMMUN PAPERS, V10, P51, DOI [10.33115/udg_bib/cp.v10i21.22697, DOI 10.33115/UDG_BIB/CP.V10I21.22697]
+   Metzler H, 2022, EMOTION, DOI 10.1037/emo0001111
+   Min H, 2019, ISSUES STUD, V55, DOI 10.1142/S1013251119500024
+   Mizen P, 2015, SOCIOL REV, V63, P167, DOI 10.1111/1467-954X.12267
+   Muñiz Carlos, 2021, Convergencia, V28, pe16083, DOI 10.29101/crcs.v28i0.16083
+   Nardini G, 2021, J CONSUM PSYCHOL, V31, P112, DOI 10.1002/jcpy.1201
+   Ntontis E, 2022, INT J DISAST RISK RE, V76, DOI 10.1016/j.ijdrr.2022.103043
+   Pérez Sánchez Rolando, 2022, Perspect. comun., V15, P43
+   Pillajo Yujato I. R., 2022, THESIS U A SIMON BOL
+   Poma A., 2022, CAMPOS CIENCIAS SOCI, V10, DOI [10.15332/25006681.7667, DOI 10.15332/25006681.7667]
+   Reicher SD, 1996, EUR J SOC PSYCHOL, V26, P115
+   Rico Diana, 2020, anal.polit., V33, P92, DOI 10.15446/anpol.v33n100.93363
+   Rime B, 2009, EMOT REV, V1, P60, DOI 10.1177/1754073908097189
+   Santibanez-Rodriguez P, 2022, HISTORELO REV HIST, V14, P165, DOI 10.15446/historelo.v14n31.96307
+   Scheff Thomas, 1994, BLOODY REVENGE
+   Serri M, 2018, REV CHIL INFECTOL, V35, P629, DOI 10.4067/S0716-10182018000600629
+   Tausch N, 2011, J PERS SOC PSYCHOL, V101, P129, DOI 10.1037/a0022728
+   Valentino NA, 2011, J POLIT, V73, P156, DOI 10.1017/S0022381610000939
+   Van Ness J., 2018, EMOTIONS SOCIAL MOVE, P411
+   van Zomeren M, 2012, PERS SOC PSYCHOL REV, V16, P180, DOI 10.1177/1088868311430835
+   Vilas Xiana, 2016, Divers.: Perspect. Psicol., V12, P167, DOI 10.15332/s1794-9998.2016.0002.01
+   Wlodarczyk A, 2017, J SOC POLIT PSYCHOL, V5, P200, DOI 10.5964/jspp.v5i1.471
+   Wojcieszak M, 2016, POLIT COMMUN, V33, P241, DOI 10.1080/10584609.2015.1051608
+   Xenos M, 2007, J COMMUN, V57, P704, DOI 10.1111/j.1460-2466.2007.00364.x
+   Zumarraga Espinosa M., 2020, DOXA COMUNICACION, V30, P55, DOI [10.31921/doxacom.n30a3, DOI 10.31921/DOXACOM.N30A3]
+   Zumárraga Espinosa Marcos, 2017, anal.polit., V30, P130, DOI 10.15446/anpol.v30n91.70268
+   Zumarraga-Espinosa M., 2017, DEMOCRACIAS, V5, P25, DOI [10.54887/27376192.39, DOI 10.54887/27376192.39]
+   Zumarraga-Espinosa M., 2022, REV CIENC SOC HUM, V195-219, P195, DOI [10.17163/uni.n36.2022.08, DOI 10.17163/UNI.N36.2022.08]
+   Zumarraga-Espinosa M., 2022, SOCIOLOGIA POLITICA, V86, P79, DOI [10.14201/alh.18564, DOI 10.14201/ALH.18564]
+   Zumárraga-Espinosa Marcos, 2021, Contratexto, P17, DOI 10.26439/contratexto2021.n035.4839
+   Zumarraga-Espinosa M, 2020, AM LAT HOY, V86, P79, DOI 10.14201/alh.18564
+NR 72
+TC 0
+Z9 0
+U1 1
+U2 1
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1664-1078
+J9 FRONT PSYCHOL
+JI Front. Psychol.
+PD JUN 9
+PY 2023
+VL 13
+AR 1111184
+DI 10.3389/fpsyg.2022.1111184
+PG 10
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA J9VU6
+UT WOS:001013038900001
+PM 37457673
+OA Green Published, gold
+DA 2023-09-26
+ER
+
+PT J
+AU Flores, EP
+   Andreani, MJR
+   Munoz, NA
+AF Palma Flores, Evelyn
+   Reyes Andreani, Maria Jose
+   Albornoz Munoz, Natalia
+TI Narrating to bear witness to the present: letters from children in
+   Santiago de Chile during the social outbreak of october 2019
+SO TEMPO E ARGUMENTO
+LA English
+DT Article
+DE children's protagonism; history of the present; testimony of the
+   present; letters
+ID HISTORY; MEMORIES
+AB The paper analyses the voice of children in bearing witness to conflictive events in recent history. Following the Chilean social outburst starting on 18 October 2019, a letter-writing experience was conducted with 46 students between 11 and 14 years old in two primary schools in the city of Santiago de Chile. The main findings of the activity indicate that boys and girls express themselves as authorised voices to narrate the event that erupted in society, they express ethical evaluations of what happened by understanding facts through contingent and structural situations. Some students articulate the events of the present (social demands, human rights violations) with the legacy of the civil-military dictatorship (1973-1990), pointing out similarities between the two events. These findings allow us to affirm that children are valuable voices to bear witness to the history of the present within the framework of a pedagogical device.
+C1 [Palma Flores, Evelyn; Reyes Andreani, Maria Jose] Univ Chile, Santiago, Chile.
+   [Albornoz Munoz, Natalia] Pontificia Univ Catolica Chile, Santiago, Chile.
+   [Albornoz Munoz, Natalia] Univ OHiggins, Santiago, Chile.
+C3 Universidad de Chile; Pontificia Universidad Catolica de Chile;
+   Universidad de O'Higgins
+RP Flores, EP (corresponding author), Univ Chile, Santiago, Chile.
+EM evelepe@uchile.cl; mjrandreani@u.uchile.cl; natalbmu@ug.uchile.cl
+CR Ankersmit FR, 2004, HIST THEORY, V43, P84, DOI 10.1111/j.1468-2303.2004.00299.x
+   [Anonymous], 2002, QUE QUEDA AUSCHWITZ
+   [Anonymous], 2004, APRENDER Y PENSAR HI
+   [Anonymous], 2003, ORDEN YA FUE EJECUTA
+   [Anonymous], 1970, HISTORIA Y CIENCIAS
+   AROSTEGUI Julio, 2004, HIST VIVIDA HIST PRE
+   Barton K.C., 2004, TEACHING HIST COMMON
+   CARNOVALE Vera, 2007, HIST RECIENTE PERSPE, P155
+   CARR Edward, 1978, QUE HIST
+   CASTILLO Patricia, 2019, INFANCIADICTADURA TE
+   CASTILLO Patricia, 2018, PAISAJES TERRITORIOS, P119
+   CASTILLO Patricia, 2018, INFANCIAS JUVENTUDES, P195
+   CASTILLO Patricia, 2015, INFANCIA DICTADURA N
+   CHILE. Ministerio del Interior y Seguridad Publica, 2019, ARQUITECTURA ESTADO
+   Codera Maximiliano Fuentes, 2014, ESPANA PRIMERA GUERR
+   DEFENSORIA DE LA NINEZ, 2020, ESTUDIO EFECTOS ESTA
+   Fajardo Mayo María Alejandra, 2018, Univ. Psychol., V17, P90, DOI 10.11144/javeriana.upsy17-1.mavn
+   Felman Shoshana, 2019, TESTIMONIO CRISIS TE
+   FERNANDEZ Cristian, 2017, TEXTO ESTUDIANTE HIS
+   Goldberg T, 2008, LEARN INSTR, V18, P223, DOI 10.1016/j.learninstruc.2007.04.005
+   Gross MH, 2019, TEACHING AND LEARNING THE DIFFICULT PAST: COMPARATIVE PERSPECTIVES, P1
+   Hammack PL, 2008, PERS SOC PSYCHOL REV, V12, P222, DOI 10.1177/1088868308316892
+   Hammack PL, 2010, HUM DEV, V53, P173, DOI 10.1159/000320045
+   Hartog Francois, 2007, REGIMENES HISTORICID
+   Haste H, 2017, PALGRAVE HDB RES HIS, DOI 10.1057/978-1-137-52908-4_23
+   HIGUERA Diego, 2018, INVESTIGACION INTERD, P99
+   JACKSON ALBARRAN Elena, 2021, CHILDREN YOUTH SUBJE, P13
+   James A., 2012, KEY CONCEPTS CHILDHO
+   JARA Daniela, 2018, REV CASTALIA, V29, P16
+   Jelin E., 2017, LUCHA PASADO COMO CO
+   Jelin E, 2003, MONUMENTOS MEMORIALE
+   JELIN Elizabeth, 2002, TRABAJOS MEMORIA, P17
+   Jelin Elizabeth, 2014, CLEPSIDRA REV INTERD, V1, P140
+   Kadir A, 2019, PLOS ONE, V14, DOI 10.1371/journal.pone.0210071
+   LA CAPRA Dominick, 2018, HIST MEMORIA DESPUES
+   LAUB Dori, 2002, J APPL PSYCHOANALYTI, V4, P63
+   LEVISON Deborah, 2021, CHILDREN YOUTH SUBJE
+   LLOBET Valeria, 2018, DIARIO FRANCISCA 11, P41
+   MINK Louis, 1973, STUDIES LOGIC FDN MA, V74, P725, DOI [10.1016/S0049-237X(09)70397-0, DOI 10.1016/S0049-237X(09)70397-0]
+   Araujo MPN, 2007, REV CRIT CIENC SOC, P95, DOI 10.4000/rccs.728
+   PALMA Evelyn, 2018, J INTERPERSONAL VIOL, V36, P6550, DOI 10.177/08862051819881
+   Panter-Brick C, 2015, J CHILD PSYCHOL PSYC, V56, P814, DOI 10.1111/jcpp.12350
+   Pollak Michael., 2006, MEMORIA OLVIDO SILEN
+   Rashid J, 2012, INT SOC WORK, V55, P629, DOI 10.1177/0020872812447640
+   Reyes Andreani María José, 2015, Univ. Psychol., V14, P255, DOI 10.11144/Javeriana.upsy13-5.dicm
+   Ricoeur Paul, 2008, MEMORIA HIST OLVIDO
+   Rodriguez C, 2012, DEFENCE PEACE ECON, V23, P161, DOI 10.1080/10242694.2011.597239
+   Rousso Henry, 2018, ULTIMA CATASTROFE HI
+   Saile R, 2014, CHILD ABUSE NEGLECT, V38, P135, DOI 10.1016/j.chiabu.2013.10.007
+   Blas VS, 2015, TEMPO ARGUM, V7, P42, DOI 10.5965/2175180307152015042
+   Sosenski Susana, 2016, Rev.latinoam.cienc.soc.niñez juv, V14, P43, DOI 10.11600/1692715x.1411250315
+   Sosenski S, 2015, TEMPO ARGUM, V7, P132, DOI 10.5965/2175180307142015132
+   SOSENSKI Susana, 2018, DIARIO FRANCISCA 11, P29
+   Tucker Aviezer, 2009, COMPANION PHILOS HIS
+   VALENZUELA Ester, 2021, INFORME ANUAL DERECH, P367
+   Wansink B, 2018, THEOR RES SOC EDUC, V46, P495, DOI 10.1080/00933104.2018.1480439
+   Wertsch J. V., 2002, VOICES COLLECTIVE RE
+   Wyness M, 2013, CHILDHOOD, V20, P429, DOI 10.1177/0907568212459775
+NR 58
+TC 0
+Z9 0
+U1 1
+U2 3
+PU UNIV ESTADO SANTA CATARINA-UDESC
+PI FLORIANOPOLIS
+PA RUA VISCONDE OURO PRETO 457, CENTRO, FLORIANOPOLIS, SC 88020-04, BRAZIL
+SN 2175-1803
+J9 TEMPO ARGUM
+JI Tempo Argum.
+PY 2022
+VL 14
+IS 36
+AR e0106
+DI 10.5965/2175180314362022e0106
+PG 30
+WC History
+WE Emerging Sources Citation Index (ESCI)
+SC History
+GA 4P7PH
+UT WOS:000855583300001
+OA gold
+DA 2023-09-26
+ER
+
+PT J
+AU Santibanez-Rodriguez, P
+AF Santibanez-Rodriguez, Pablo
+TI From Student Protests to Citizen Assemblies: The Chilean Student
+   Movement (2006-2011) as a Socio-political Resource for the Social
+   Outbreak in Chile (2019)
+SO HISTORELO-REVISTA DE HISTORIA REGIONAL Y LOCAL
+LA English
+DT Article
+DE social outbreak; Chilean student movement; biographical consequences;
+   socio-political resources; neoliberal unrest; social outbreak; Chilean
+   student movement; biographical consequences; socio-political resources;
+   neoliberal unrest
+AB Considering its extent and intensity, the Chilean social outbreak of 2019 is the most relevant socio-political event for Chilean democracy since the end of the dictatorship. This movement sought the transformation of the modernisation model -implemented in the country over the last 40 years-, challenging the already weakened socio-political tissue of political imagination. This study explores the role of the biographical consequences of the Chilean student movement (2006-2011) in the organization of the 2019 social outbreak. Using a longitudinal and qualitative approach, this study analyses the life stories of participants in the Chilean student movement, and compares them to their own experiences during the 2019 social outbreak. The results suggest that the processes of political socialisation experienced during the student movement provided participants with socio-political resources at a micro-political level, defining their forms of organisation and protest, as well as their experience of social unrest. These resources were employed to confront the crisis of political imagination, arising at an institutional level. To conclude, this study acknowledges some limitations and suggests further research, especially in relation to analysing late neoliberal moder-nisation and socio-political outbreaks from a regional perspective.
+C1 [Santibanez-Rodriguez, Pablo] UCL, Inst Educ, Practice & Soc, London, England.
+C3 University of London; University College London; UCL Institute of
+   Education
+RP Santibanez-Rodriguez, P (corresponding author), UCL, Inst Educ, Practice & Soc, London, England.
+EM p.santibanez-rodriguez.19@ucl.ac.uk
+OI Santibanez-Rodriguez, Pablo/0000-0003-4957-9896
+CR Aguilera Ruiz Óscar, 2017, Nueva antropol, V30, P131
+   Andrews M., 2007, SHAPING HIST NARRATI, DOI 10.1017/CBO9780511557859
+   Barassi V, 2020, SOC MOVEMENT STUD, V19, P592, DOI 10.1080/14742837.2020.1718489
+   Bellei C, 2014, STUD HIGH EDUC, V39, P426, DOI 10.1080/03075079.2014.896179
+   Bellei Cristian, 2013, CURRENT ISSUES COMP, V15, P108, DOI DOI 10.1080/03075079.2014.896179
+   Berardi Franco, 2017, FUTURABILITY AGE IMP
+   Bourdieu P., 2008, SENTIDO PRACTICO
+   BRAUNGART MM, 1991, SOC PROBL, V38, P297, DOI 10.1525/sp.1991.38.3.03a00010
+   C?rdenas Ana, 2013, MOVIMIENTO ESTUDIANT
+   Cabalin C, 2014, COMUNICAR, V22, P25, DOI 10.3916/C43-2014-02
+   Cini L., 2020, CONT HIGH ED
+   Cuevas-Valenzuela Hernan, 2020, REV F RO, V2, P159
+   della Porta D., 2016, DID REVOLUTION GO CO
+   Espinoza-Diaz Oscar, 2014, REV PEDAGOGA UNIVERS, V1, P12
+   Fillieule O., 2013, WILEY BLACKWELL ENCY, P1, DOI [10.1002/9780470674871.wbespm199, DOI 10.1002/9780470674871.WBESPM199]
+   Fillieule O., 2010, SOC MOVEMENT STUD, V9, P1, DOI [https://doi.org/10.1080/14742830903442436, DOI 10.1080/14742830903442436]
+   Fillieule O., 2019, ACTIVISTS FOREVER LO
+   Fuentes-Garcia, 2019, REV CHIL SALUD P BLI, V23, P93, DOI DOI 10.5354/0719-5281.2019.56343
+   Ganter Rodrigo, 2016, CONTESTED CITIES, V4, P1
+   GANTER SOLÍS RODRIGO, 2020, Universum, V35, P74
+   Gill J., 2009, SOCIAL MOVEMENT STUD, V8, P203, DOI [DOI 10.1080/14742830903024309, 10.1080/14742830903024309]
+   Giugni M., 1999, SOCIAL MOVEMENTS MAT
+   Giugni Marco, 2016, CONSEQUENCES SOCIAL, P85
+   Inzunza J, 2019, BRIT J SOCIOL EDUC, V40, P490, DOI 10.1080/01425692.2019.1590179
+   MCADAM D, 1989, AM SOCIOL REV, V54, P744, DOI 10.2307/2117751
+   Montero-Barriga Violeta, 2018, PERSONA SOC, V32, P46, DOI [10.53689/pys.v32i2.232, DOI 10.53689/PYS.V32I2.232]
+   Mu?oz-Tamayo Victor, 2011, GENERACIONES JUVENTU
+   Muñoz-Tamayo Víctor, 2019, Izquierdas (Santiago), P129
+   Munoz-Tamayo Victor, 2021, IZQUIERDAS, V50, P1
+   Niesz T, 2018, TEACH COLL REC, V120
+   Nissen S, 2021, CHILD GEOGR, V19, P317, DOI 10.1080/14733285.2020.1812535
+   Olivier G., 2019, ACTIVISTS FOREVER LO, P108
+   Pagis J., 2019, ACTIVISTS FOREVER LO, P62, DOI [10.1017/9781108690928.003, DOI 10.1017/9781108690928.003]
+   Passy Florence, 2019, WILEY BLACKWELL COMP, P499
+   Galan LP, 2021, SOC MOVEMENT STUD, V20, P2, DOI 10.1080/14742837.2020.1722627
+   Rodriguez Pablo, 2016, LTIMA D CADA, V24, P39, DOI [10.4067/S0718-22362016000100003, DOI 10.4067/S0718-22362016000100003]
+   Rodriguez Pablo, 2021, STUDENTS PROTEST U G, P53
+   Sanhueza Germn, 2015, MANAGEMENT, V10, P24
+   Somma Nicolas M., 2021, STUDENT MOVEMENTS LA, P241, DOI DOI 10.1007/978-3-030-75754-0_10
+   Touraine Alain, 1982, REV MEXICANA SOCIOLO, V44, P689, DOI [10.2307/3540283, DOI 10.2307/3540283]
+   Vestergren S, 2017, SOC MOVEMENT STUD, V16, P203, DOI 10.1080/14742837.2016.1252665
+   Whittier, 2010, FEMINIST GENERATIONS
+   Wickham-Crowley TP., 2015, HDB SOCIAL MOVEMENTS, P25, DOI DOI 10.1007/978-94-017-9912-6
+   Zarzuri C. Raúl, 2018, Ultima décad., V26, P61
+NR 44
+TC 1
+Z9 1
+U1 4
+U2 5
+PU UNIV NAC COLOMBIA, SEDE MEDELLIN
+PI MEDELLIN
+PA CALLE 59A NO 63-20, BLOQUE 43, OFICINA 450, MEDELLIN, 00000, COLOMBIA
+SN 2145-132X
+J9 HISTORELO REV HIST
+JI Historelo
+PD SEP-DEC
+PY 2022
+VL 14
+IS 31
+BP 165
+EP 197
+DI 10.15446/historelo.v14n31.96307
+PG 33
+WC History
+WE Emerging Sources Citation Index (ESCI)
+SC History
+GA 5B0FL
+UT WOS:000863252600006
+OA gold, Green Submitted
+DA 2023-09-26
+ER
+
+EF

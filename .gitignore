@@ -1,0 +1,3 @@
+build/
+datahandler.egg-info/
+datahandler/__pycache__
